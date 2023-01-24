@@ -1,3 +1,3 @@
 # Code for DHS
 
-## Please press ‘Download Repository’ button.
+## Please press the ‘Download Repository’ button.
